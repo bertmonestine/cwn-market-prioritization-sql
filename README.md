@@ -2,6 +2,8 @@
 
 **Question:** Which U.S. states should CrossingWatersNetwork.org prioritize for new listings, blog content and ad spend?
 
+**Contents:** [Data](#data) · [Method](#method) · [Results](#results) · [Limits and notes](#limits-and-notes)
+
 This project uses SQL (SQLite) to compare three things for every state: how many facilities the CWN directory covers, how many people live there, and how much site traffic comes from there. The result is a ranking of coverage gaps that can guide budget allocation.
 
 ## Data
